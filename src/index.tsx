@@ -19,7 +19,7 @@ root.render(
       <p>example.com is a B2C web application that provides content generation from gathered newsletters for users (hereinafter the "Application").</p>
 
       <p>
-        The example.com Application is developed and operated by Phrayz, a company that is currently in the process of being registered.
+        The example.com Application is developed and operated by example, a company that is currently in the process of being registered.
       </p>
       <p>
         These General Terms of Service (hereinafter the "Terms" or "ToS") govern the conditions under which the User is authorized to use the Application and benefit from its Services. Access to the Application and use of the Services are conditional upon acceptance of and compliance with these Terms. Therefore, by creating a User Account and using the Application, you agree to comply with the obligations described in this document.
@@ -30,7 +30,7 @@ root.render(
 
       <h2> 1. Definitions and Interpretation </h2>
       <p>
-        In these ToS, the following terms have the following meanings: "User Account" refers to the specific space for a User where they can access their generated content. "Content" means any data, information, or material provided by the User or collected by the Application in relation to the User's inboxes. "Parties" means Phrayz and the User. "Services" means all the features offered to the User through the Application. "User" means any natural person using the Application and its Services.
+        In these ToS, the following terms have the following meanings: "User Account" refers to the specific space for a User where they can access their generated content. "Content" means any data, information, or material provided by the User or collected by the Application in relation to the User's inboxes. "Parties" means example and the User. "Services" means all the features offered to the User through the Application. "User" means any natural person using the Application and its Services.
       </p>
 
       <h2>2. User Account Creation</h2>
